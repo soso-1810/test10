@@ -1,0 +1,19 @@
+/* h1 タグの見た目 */
+h1 {
+  color: darkblue;
+  font-size: 36px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* p タグの見た目 */
+p {
+  color: #333;
+  font-size: 18px;
+  text-align: center;
+}
+
+/* マウスを乗せたときに色を変える（追加） */
+p:hover {
+  color: crimson;
+}
